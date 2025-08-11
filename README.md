@@ -2,7 +2,7 @@
 
 <img width="1408" height="768" alt="Image" src="https://github.com/user-attachments/assets/151fd4ba-7275-45d8-bed4-fd9e0bc0c47a" />
 
-## 💼 Contextualization**
+## 💼 Contextualization
 
 This project was developed as part of the **Google Data Advanced Analytics** certification to apply data science and machine learning techniques in predicting employee turnover at the fictional company *Salifort Motors*. 
 
