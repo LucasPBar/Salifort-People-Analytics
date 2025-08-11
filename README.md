@@ -2,6 +2,8 @@
 
 <img width="1408" height="768" alt="Image" src="https://github.com/user-attachments/assets/151fd4ba-7275-45d8-bed4-fd9e0bc0c47a" />
 
+**💼 Contextualization**
+
 This project was developed as part of the **Google Data Advanced Analytics** certification to apply data science and machine learning techniques in predicting employee turnover at the fictional company *Salifort Motors*. 
 
 The HR department at Salifort Motors has collected employee data with the goal of improving satisfaction and retention but is uncertain about how to leverage this information. They sought the expertise of a data analytics professional to provide data-driven insights and answer a crucial question: **What factors are likely to cause employees to leave the company?**
