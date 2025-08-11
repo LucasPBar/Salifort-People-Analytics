@@ -32,9 +32,5 @@ The dataset contains information on 15,000 employees, including features such as
 ## Ethical Considerations
 This project also reflects on the responsible use of sensitive data, emphasizing privacy, transparency, and bias mitigation throughout the analysis and modeling process.
 
-## How to Run
-1. Clone the repository
-2. Install dependencies with `pip install -r requirements.txt`
-3. Run the notebooks or scripts located in the `src/` folder
 
 
