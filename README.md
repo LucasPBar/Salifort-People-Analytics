@@ -1,26 +1,38 @@
-# Silifort Motors – Previsão de Rotatividade de Funcionários
+# Salifort Motors – Employee Turnover Prediction
 
 <img width="1408" height="768" alt="Image" src="https://github.com/user-attachments/assets/151fd4ba-7275-45d8-bed4-fd9e0bc0c47a" />
 
-Este projeto foi desenvolvido durante a certificação **Google Data Advanced Analytics** com o objetivo de aplicar técnicas de ciência de dados e machine learning para prever a rotatividade de colaboradores na empresa fictícia *Silifort Motors*. Utilizando um conjunto de dados real e anonimizado, buscamos construir um modelo preditivo capaz de identificar os funcionários com maior probabilidade de deixar a empresa.
+This project was developed as part of the **Google Data Advanced Analytics** certification to apply data science and machine learning techniques in predicting employee turnover at the fictional company *Salifort Motors*. 
 
-Com essa previsão, o departamento de Recursos Humanos pode tomar decisões estratégicas para reduzir a rotatividade, melhorar a retenção de talentos e otimizar investimentos em recrutamento e treinamentos, promovendo um ambiente de trabalho mais estável e produtivo.
+The HR department at Salifort Motors has collected employee data with the goal of improving satisfaction and retention but is uncertain about how to leverage this information. They sought the expertise of a data analytics professional to provide data-driven insights and answer a crucial question: **What factors are likely to cause employees to leave the company?**
 
-## Estrutura do Projeto
-- **data/**: Dataset utilizado na análise.
-- **notebooks/**: Análises exploratórias, visualizações e testes dos modelos.
-- **src/**: Scripts para pré-processamento, modelagem e avaliação.
-- **README.md**: Documentação do projeto.
+## Project Objective
+The main goal is to analyze the dataset provided by HR and build a predictive model that identifies employees who are likely to leave. By forecasting turnover, the company can proactively address the root causes, enhancing employee satisfaction and retention.
 
-## Sobre o Dataset
-O conjunto de dados contém informações de 15.000 funcionários, incluindo variáveis como nível de satisfação, avaliação de desempenho, número de projetos, horas mensais trabalhadas, tempo de empresa, acidentes de trabalho, promoções recentes, departamento, nível salarial e status de saída.
+Reducing employee turnover is essential because recruiting, interviewing, and training new staff is both time-consuming and costly. Effective retention strategies not only stabilize the workforce but also optimize the company’s investment in talent development.
 
-## Técnicas Aplicadas
-- Análise exploratória de dados (EDA)
-- Visualização com Matplotlib e Seaborn
-- Modelos de classificação: Regressão Logística, Random Forest, entre outros
-- Métricas de avaliação: AUC, F1-score, Precisão e Recall
-- Validação cruzada para garantir a robustez do modelo
+## Project Structure
+- **data/**: Dataset used for analysis.
+- **notebooks/**: Exploratory data analysis, visualizations, and model experiments.
+- **src/**: Scripts for data preprocessing, modeling, and evaluation.
+- **README.md**: Project documentation.
 
-## Considerações Éticas
-O projeto também contempla uma reflexão importante sobre o uso responsável de dados sensíveis, com atenção à privacidade, transparência e mitigação de vieses.
+## Dataset Overview
+The dataset contains information on 15,000 employees, including features such as satisfaction level, performance evaluation, number of projects, monthly working hours, time spent at the company, work accidents, promotions in the last five years, department, salary level, and turnover status.
+
+## Techniques Applied
+- Exploratory Data Analysis (EDA)
+- Visualizations with Matplotlib and Seaborn
+- Classification models such as Logistic Regression and Random Forest
+- Evaluation metrics including AUC, F1-score, Precision, and Recall
+- Cross-validation to ensure model robustness
+
+## Ethical Considerations
+This project also reflects on the responsible use of sensitive data, emphasizing privacy, transparency, and bias mitigation throughout the analysis and modeling process.
+
+## How to Run
+1. Clone the repository
+2. Install dependencies with `pip install -r requirements.txt`
+3. Run the notebooks or scripts located in the `src/` folder
+
+
