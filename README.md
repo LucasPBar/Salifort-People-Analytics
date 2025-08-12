@@ -47,17 +47,21 @@ This project was developed as part of the Google Data Advanced Analytics certifi
 
 ## Data Understanding
 
-The dataset contains information on 15,000 employees, with features including:  
-- Satisfaction level  
-- Performance evaluation  
-- Number of projects  
-- Monthly working hours  
-- Time spent at the company  
-- Work accidents  
-- Promotions in the last 5 years  
-- Department  
-- Salary level  
-- Turnover status  
+The dataset contains information on 15,000 employees, with features including: 
+
+| Variable               | Description                                                      |
+|------------------------|------------------------------------------------------------------|
+| satisfaction_level     | Employee-reported job satisfaction level [0–1]                   |
+| last_evaluation        | Score of employee’s last performance review [0–1]                |
+| number_project         | Number of projects employee contributes to                       |
+| average_monthly_hours  | Average number of hours employee worked per month                |
+| time_spend_company     | How long the employee has been with the company (years)          |
+| Work_accident          | Whether or not the employee experienced an accident while at work|
+| left                   | Whether or not the employee left the company                     |
+| promotion_last_5years  | Whether or not the employee was promoted in the last 5 years     |
+| Department             | The employee’s department                                        |
+| salary                 | The employee’s salary (U.S. dollars)                             |
+ 
 
 **Dataset link:** [Hr Analytics Job Prediction](https://www.kaggle.com/datasets/ajaypalsinghlohana/hr-analytics-job-prediction)
 
