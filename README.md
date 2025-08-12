@@ -51,6 +51,16 @@ This project was developed as part of the Google Data Advanced Analytics certifi
 
 ---
 
+## Techniques Applied
+
+- Exploratory Data Analysis (EDA) to uncover patterns and data quality issues  
+- Data visualization using Matplotlib and Seaborn to interpret key relationships  
+- Classification modeling with Logistic Regression, Decision Tree, and Random Forest  
+- Model evaluation using metrics such as AUC, F1-score, Precision, and Recall  
+- Cross-validation to ensure robustness and prevent overfitting  
+
+---
+
 ## Data Understanding
 
 The dataset contains information on 15,000 employees, with features including:  
