@@ -1,6 +1,8 @@
 # Salifort Motors – Employee Turnover Prediction  
 **Predicting Employee Turnover at Salifort Motors**
 
+<img width="1408" height="768" alt="Image" src="https://github.com/user-attachments/assets/151fd4ba-7275-45d8-bed4-fd9e0bc0c47a" />
+
 ---
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)](https://www.python.org/)  
