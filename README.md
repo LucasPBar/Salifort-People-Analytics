@@ -22,6 +22,8 @@ Reducing employee turnover is essential because recruiting, interviewing, and tr
 ## Dataset Overview
 The dataset contains information on 15,000 employees, including features such as satisfaction level, performance evaluation, number of projects, monthly working hours, time spent at the company, work accidents, promotions in the last five years, department, salary level, and turnover status.
 
+**Database link:** https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction?select=HR_comma_sep.csv
+
 ## Techniques Applied
 - Exploratory Data Analysis (EDA)
 - Visualizations with Matplotlib and Seaborn
