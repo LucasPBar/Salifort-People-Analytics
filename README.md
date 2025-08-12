@@ -36,7 +36,7 @@ This project also reflects on the responsible use of sensitive data, emphasizing
 
 ---
 
-Contact:
+### Contact:
 
 Linkedin: www.linkedin.com/in/lucaspimentabarretto
 
