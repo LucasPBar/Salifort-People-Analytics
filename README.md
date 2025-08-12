@@ -54,16 +54,20 @@ This project was developed as part of the Google Data Advanced Analytics certifi
 ## Data Understanding
 
 The dataset contains information on 15,000 employees, with features including:  
-- Satisfaction level  
-- Performance evaluation  
-- Number of projects  
-- Monthly working hours  
-- Time spent at the company  
-- Work accidents  
-- Promotions in the last 5 years  
-- Department  
-- Salary level  
-- Turnover status  
+
+| Label                     | Description                                 |
+|--------------------------|---------------------------------------------|
+| Python 3.10              | Programming language used                   |
+| Status: Completed        | Project completion status                   |
+| Jupyter Notebook         | Development environment                     |
+| Scikit-Learn 0.24        | Machine learning library                    |
+| Machine Learning: Regression | Type of ML task performed              |
+| Pandas: Data Analysis    | Library for data manipulation               |
+| NumPy: Scientific Computing | Library for numerical operations        |
+| XGBoost 1.6              | Gradient boosting library                   |
+| VS Code: IDE             | Integrated development environment          |
+| Anaconda: Environment    | Package and environment manager             |
+
 
 **Dataset link:** [Hr Analytics Job Prediction](https://www.kaggle.com/datasets/ajaypalsinghlohana/hr-analytics-job-prediction)
 
