@@ -9,7 +9,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)  
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)](https://jupyter.org/)  
 [![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-0.24-lightgrey?logo=scikitlearn)](https://scikit-learn.org/)  
-![ML](https://img.shields.io/badge/Machine%20Learning-Regression-orange) 
+![ML](https://img.shields.io/badge/Machine%20Learning-Regression-orange)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-lightblue?logo=pandas)  
 ![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-blue?logo=numpy)  
 [![XGBoost](https://img.shields.io/badge/XGBoost-1.6-red?logo=xgboost)](https://xgboost.readthedocs.io/)  
