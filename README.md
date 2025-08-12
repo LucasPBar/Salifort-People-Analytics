@@ -30,9 +30,8 @@
 - [Key Business Insights](#key-business-insights)  
 - [Models and Metrics](#models-and-metrics)  
 - [Sample Visualization](#sample-visualization)  
-- [Contact](#contact)  
-- [License](#license)  
-
+- [Contact](#contact)
+  
 ---
 
 ## Project Description
