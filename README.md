@@ -34,5 +34,15 @@ The dataset contains information on 15,000 employees, including features such as
 ## Ethical Considerations
 This project also reflects on the responsible use of sensitive data, emphasizing privacy, transparency, and bias mitigation throughout the analysis and modeling process.
 
+---
+
+Contact:
+
+Linkedin: www.linkedin.com/in/lucaspimentabarretto
+
+Github: https://github.com/LucasPBar
+
+Gmail: lucaspimenta1805@gmail.com
+
 
 
