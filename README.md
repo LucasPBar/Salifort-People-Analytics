@@ -1,7 +1,8 @@
 # Salifort Motors – Employee Turnover Prediction  
-**Predicting Employee Turnover at Salifort Motors**
+*Predicting Employee Turnover at Salifort Motors*
 
 <img width="1408" height="768" alt="Image" src="https://github.com/user-attachments/assets/151fd4ba-7275-45d8-bed4-fd9e0bc0c47a" />
+
 
 ---
 
@@ -29,13 +30,14 @@
 - [Key Business Insights](#key-business-insights)  
 - [Models and Metrics](#models-and-metrics)  
 - [Sample Visualization](#sample-visualization)  
-- [Contact](#contact) 
+- [Contact](#contact)  
+- [License](#license)  
 
 ---
 
 ## Project Description
 
-This project was developed as part of the Google Data Advanced Analytics certification to apply data science and machine learning techniques to predict employee turnover at the fictional company Salifort Motors. The HR department collected employee data with the goal of improving satisfaction and retention but needed data-driven insights to identify factors causing employees to leave.
+This project was developed as part of the Google Data Advanced Analytics certification to apply data science and machine learning techniques in predicting employee turnover at the fictional company Salifort Motors. The HR department at Salifort Motors has gathered comprehensive employee data aiming to enhance workforce satisfaction and retention. However, they faced uncertainty about how to extract actionable insights from this data. They engaged a data analytics professional to deliver data-driven answers to a key question: which factors are most likely to lead employees to leave the company?
 
 ---
 
@@ -52,21 +54,17 @@ This project was developed as part of the Google Data Advanced Analytics certifi
 
 ## Data Understanding
 
-The dataset contains information on 15,000 employees, with features including: 
-
-| Variable               | Description                                                      |
-|------------------------|------------------------------------------------------------------|
-| satisfaction_level     | Employee-reported job satisfaction level [0–1]                   |
-| last_evaluation        | Score of employee’s last performance review [0–1]                |
-| number_project         | Number of projects employee contributes to                       |
-| average_monthly_hours  | Average number of hours employee worked per month                |
-| time_spend_company     | How long the employee has been with the company (years)          |
-| Work_accident          | Whether or not the employee experienced an accident while at work|
-| left                   | Whether or not the employee left the company                     |
-| promotion_last_5years  | Whether or not the employee was promoted in the last 5 years     |
-| Department             | The employee’s department                                        |
-| salary                 | The employee’s salary (U.S. dollars)                             |
- 
+The dataset contains information on 15,000 employees, with features including:  
+- Satisfaction level  
+- Performance evaluation  
+- Number of projects  
+- Monthly working hours  
+- Time spent at the company  
+- Work accidents  
+- Promotions in the last 5 years  
+- Department  
+- Salary level  
+- Turnover status  
 
 **Dataset link:** [Hr Analytics Job Prediction](https://www.kaggle.com/datasets/ajaypalsinghlohana/hr-analytics-job-prediction)
 
@@ -75,23 +73,23 @@ The dataset contains information on 15,000 employees, with features including:
 ## Business Problem & Objectives
 
 ### Business Problem  
-HR wants to identify key factors influencing employee turnover to implement strategies that increase retention.
+The HR team at Salifort Motors wants to understand the underlying causes that prompt employees to leave the company. Employee turnover not only disrupts team dynamics but also incurs significant financial and operational costs. Therefore, identifying predictive factors that signal an employee’s likelihood of leaving is essential. With these insights, the company can proactively create targeted strategies to enhance employee satisfaction, reduce turnover rates, and foster a healthier workplace culture.
 
 ### Objectives  
-- Analyze the dataset to identify turnover patterns  
-- Build a predictive model to flag employees at risk of leaving  
-- Support HR with actionable data-driven retention strategies  
+- Analyze the dataset to uncover key turnover drivers  
+- Build a predictive model that flags employees at risk of leaving  
+- Provide HR with actionable, data-driven recommendations for retention strategies  
 
 ---
 
 ## Proposed Solutions
 
 1. **Reduce excessive workload:** Limit projects per employee and monitor burnout signs.  
-2. **Promotions and recognition:** Clear policies to value and retain talent.  
-3. **Work culture reform:** Reassess performance evaluations and overtime expectations.  
-4. **HR strategic actions:** Team meetings to understand culture and dissatisfaction causes.  
-5. **Feature engineering:** Create derived variables like "overworked" to capture workload.  
-6. **Adopt predictive models:** Use Random Forest to predict turnover risk and guide decisions.  
+2. **Promotions and recognition:** Establish clear policies to reward and retain talent.  
+3. **Work culture reform:** Reevaluate performance metrics and overtime practices.  
+4. **HR strategic engagement:** Facilitate team discussions to identify dissatisfaction drivers.  
+5. **Feature engineering:** Create derived variables like “overworked” to better capture workload stress.  
+6. **Adopt predictive models:** Implement Random Forest to identify turnover risk and guide interventions.  
 
 ---
 
@@ -119,16 +117,16 @@ This project reflects the responsible use of sensitive employee data by emphasiz
 
 ## Models and Metrics
 
-| Model              | AUC (%) | F1-score | Precision | Recall | Notes                                      |
-|--------------------|---------|----------|-----------|--------|--------------------------------------------|
-| Logistic Regression | 89      | 0.85     | 0.83      | 0.86   | Baseline model                             |
-| Decision Tree      | 91      | 0.87     | 0.85      | 0.89   | Easy to interpret                          |
-| **Random Forest**  | **98**  | **0.93** | **0.92**  | **0.94** | Best performance, robust, less overfitting |
+| Model               | Accuracy | Recall (Leavers) | Precision (Leavers) |
+|---------------------|----------|------------------|---------------------|
+| Logistic Regression  | 82%      | 26%              | 44%                 |
+| Decision Tree       | 94%      | 92%              | 78%                 |
+| Random Forest       | 96%      | 90%              | 87%                 |
 
 *Why Random Forest?*  
 - Combines multiple trees for robustness  
 - Captures complex variable interactions  
-- Stable with unseen data  
+- Maintains stability with unseen data  
 
 ---
 
@@ -139,7 +137,3 @@ This project reflects the responsible use of sensitive employee data by emphasiz
 | LinkedIn | [linkedin.com/in/lucaspimentabarretto](https://www.linkedin.com/in/lucaspimentabarretto) |
 | GitHub   | [github.com/LucasPBar](https://github.com/LucasPBar)         |
 | Email    | lucaspimenta1805@gmail.com                                    |
-
-
-
-
