@@ -22,8 +22,7 @@
 - [Key Business Insights](#key-business-insights)  
 - [Models and Metrics](#models-and-metrics)  
 - [Sample Visualization](#sample-visualization)  
-- [Contact](#contact)  
-- [License](#license)  
+- [Contact](#contact) 
 
 ---
 
@@ -122,17 +121,13 @@ This project reflects the responsible use of sensitive employee data by emphasiz
 
 ---
 
-## Sample Visualization
+## Contact
 
-```python
-import seaborn as sns
-import matplotlib.pyplot as plt
-
-sns.boxplot(x='left', y='satisfaction_level', data=employee_data)
-plt.title('Satisfaction Level vs. Employee Turnover')
-plt.xlabel('Turnover (0 = Stayed, 1 = Left)')
-plt.ylabel('Satisfaction Level')
-plt.show()
+| Platform | Link / Email                                                  |
+|----------|--------------------------------------------------------------|
+| LinkedIn | [linkedin.com/in/lucaspimentabarretto](https://www.linkedin.com/in/lucaspimentabarretto) |
+| GitHub   | [github.com/LucasPBar](https://github.com/LucasPBar)         |
+| Email    | lucaspimenta1805@gmail.com                                    |
 
 
 
