@@ -88,6 +88,22 @@ The dataset contains information on 15,000 employees, with features including:
 ### Business Problem  
 The HR team at Salifort Motors wants to understand the underlying causes that prompt employees to leave the company. Employee turnover not only disrupts team dynamics but also incurs significant financial and operational costs. Therefore, identifying predictive factors that signal an employee’s likelihood of leaving is essential. With these insights, the company can proactively create targeted strategies to enhance employee satisfaction, reduce turnover rates, and foster a healthier workplace culture.
 
+---
+
+## Context
+
+When Salifort Motors’ HR team aims to improve talent retention, three key performance indicators (KPIs) guide strategic decision-making:
+
+1. **Employee Turnover Rate:** Measures the proportion of employees leaving the company within a given period. A high turnover rate signals retention issues possibly related to dissatisfaction or workload stress.  
+2. **Employee Satisfaction Score:** Reflects employee contentment with the workplace environment. Low satisfaction scores are strongly linked to voluntary employee departures.  
+3. **Workload Index:** Represents average monthly hours worked and the number of projects assigned. Excessive workload is associated with burnout and increased turnover risk.
+
+These KPIs help Salifort Motors identify the factors affecting employee retention and develop policies promoting well-being and productivity. The company’s goals are to minimize turnover rates, maximize employee satisfaction, and balance workloads to prevent burnout.
+
+This project leverages data science and machine learning techniques to predict which employees are at risk of leaving, enabling proactive HR interventions.
+
+---
+
 ### Objectives  
 - Analyze the dataset to uncover key turnover drivers  
 - Build a predictive model that flags employees at risk of leaving  
