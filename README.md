@@ -39,7 +39,7 @@
 
 ## Project Description
 
-This project was developed as part of the **Google Advanced Data Analytics** certification to apply data science and machine learning techniques in predicting employee turnover at the fictional company Salifort Motors. The HR department at Salifort Motors has gathered comprehensive employee data aiming to enhance workforce satisfaction and retention. However, they faced uncertainty about how to extract actionable insights from this data. They engaged a data analytics professional to deliver data-driven answers to a key question: which factors are most likely to lead employees to leave the company?
+This project was developed as part of the **Google Advanced Data Analytics Professional Certificate** to apply data science and machine learning techniques in predicting employee turnover at the fictional company Salifort Motors. The HR department at Salifort Motors has gathered comprehensive employee data aiming to enhance workforce satisfaction and retention. However, they faced uncertainty about how to extract actionable insights from this data. They engaged a data analytics professional to deliver data-driven answers to a key question: which factors are most likely to lead employees to leave the company?
 
 ---
 
