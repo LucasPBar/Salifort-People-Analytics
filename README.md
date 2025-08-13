@@ -3,7 +3,6 @@
 
 <img width="1408" height="768" alt="Image" src="https://github.com/user-attachments/assets/151fd4ba-7275-45d8-bed4-fd9e0bc0c47a" />
 
-
 ---
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)](https://www.python.org/)  
@@ -23,15 +22,19 @@
 
 - [Project Description](#project-description)  
 - [Technologies & Tools](#technologies--tools)  
+- [Techniques Applied](#techniques-applied)  
 - [Data Understanding](#data-understanding)  
 - [Business Problem & Objectives](#business-problem--objectives)  
+- [Context](#context)  
+- [Benefits of the Project](#benefits-of-the-project)  
+- [Project Conclusions](#project-conclusions)  
 - [Proposed Solutions](#proposed-solutions)  
 - [Ethical Considerations](#ethical-considerations)  
 - [Key Business Insights](#key-business-insights)  
 - [Models and Metrics](#models-and-metrics)  
 - [Sample Visualization](#sample-visualization)  
-- [Contact](#contact)
-  
+- [Contact](#contact)  
+
 ---
 
 ## Project Description
@@ -65,18 +68,18 @@ This project was developed as part of the Google Data Advanced Analytics certifi
 
 The dataset contains information on 15,000 employees, with features including:  
 
-| Label                     | Description                                 |
-|--------------------------|---------------------------------------------|
-| Python 3.10              | Programming language used                   |
-| Status: Completed        | Project completion status                   |
-| Jupyter Notebook         | Development environment                     |
-| Scikit-Learn 0.24        | Machine learning library                    |
-| Machine Learning: Regression | Type of ML task performed              |
-| Pandas: Data Analysis    | Library for data manipulation               |
-| NumPy: Scientific Computing | Library for numerical operations        |
-| XGBoost 1.6              | Gradient boosting library                   |
-| VS Code: IDE             | Integrated development environment          |
-| Anaconda: Environment    | Package and environment manager             |
+| Variable               | Description                                                      |
+|------------------------|------------------------------------------------------------------|
+| satisfaction_level     | Employee-reported job satisfaction level [0–1]                   |
+| last_evaluation        | Score of employee’s last performance review [0–1]                |
+| number_project         | Number of projects employee contributes to                       |
+| average_monthly_hours  | Average number of hours employee worked per month                |
+| time_spend_company     | How long the employee has been with the company (years)          |
+| Work_accident          | Whether or not the employee experienced an accident while at work|
+| left                   | Whether or not the employee left the company                     |
+| promotion_last_5years  | Whether or not the employee was promoted in the last 5 years     |
+| Department             | The employee’s department                                        |
+| salary                 | The employee’s salary (U.S. dollars)                             |
 
 
 **Dataset link:** [Hr Analytics Job Prediction](https://www.kaggle.com/datasets/ajaypalsinghlohana/hr-analytics-job-prediction)
@@ -87,6 +90,11 @@ The dataset contains information on 15,000 employees, with features including:
 
 ### Business Problem  
 The HR team at Salifort Motors wants to understand the underlying causes that prompt employees to leave the company. Employee turnover not only disrupts team dynamics but also incurs significant financial and operational costs. Therefore, identifying predictive factors that signal an employee’s likelihood of leaving is essential. With these insights, the company can proactively create targeted strategies to enhance employee satisfaction, reduce turnover rates, and foster a healthier workplace culture.
+
+### Objectives  
+- Analyze the dataset to uncover key turnover drivers  
+- Build a predictive model that flags employees at risk of leaving  
+- Provide HR with actionable, data-driven recommendations for retention strategies  
 
 ---
 
@@ -104,10 +112,23 @@ This project leverages data science and machine learning techniques to predict w
 
 ---
 
-### Objectives  
-- Analyze the dataset to uncover key turnover drivers  
-- Build a predictive model that flags employees at risk of leaving  
-- Provide HR with actionable, data-driven recommendations for retention strategies  
+## Benefits of the Project
+
+- **Cost Reduction:** Decrease expenses related to recruitment and training new employees.  
+- **Improved Retention:** Enhance employee satisfaction and reduce turnover rates.  
+- **Risk Identification:** Detect patterns that signal higher turnover risk.  
+- **Strategic Decision Support:** Provide data-driven insights to guide HR policies.  
+- **Promote Healthy Culture:** Support initiatives that foster a positive and productive work environment.  
+
+---
+
+## Project Conclusions
+
+- Employees with high workloads, multiple projects, and low satisfaction levels are more likely to leave.  
+- All employees managing 7 projects eventually left the company.  
+- Employees with more than 6 years of tenure tend to stay longer.  
+- A culture of excessive overtime is strongly linked to higher turnover.  
+- Recent promotions (within the last 5 years) correlate with higher retention rates.  
 
 ---
 
