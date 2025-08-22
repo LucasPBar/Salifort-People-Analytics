@@ -133,11 +133,11 @@ Investing in a positive work environment encourages collaboration, creativity, a
 
 ## Project Conclusions
 
-- Employees with high workloads, multiple projects, and low satisfaction levels are more likely to leave.  
-- All employees managing 7 projects eventually left the company.  
-- Employees with more than 6 years of tenure tend to stay longer.  
-- A culture of excessive overtime is strongly linked to higher turnover.  
-- Recent promotions (within the last 5 years) correlate with higher retention rates.  
+- Employees with high workloads, multiple projects, and low satisfaction levels are more likely to leave. This pattern highlights a clear risk of burnout and emotional fatigue. By identifying these profiles, the company can implement task redistribution policies, wellness programs, and active listening strategies to reduce turnover and retain valuable talent.
+- All employees managing 7 projects eventually left the company. This finding underscores the need for healthy operational boundaries. Leadership should reassess project allocation per employee to ensure a balance between productivity and well-being, directly contributing to retention and engagement. 
+- Employees with more than 6 years of tenure tend to stay longer. Long-term employment is linked to stability, trust, and cultural alignment. Investing in career development and ongoing recognition for this group strengthens organizational culture and reduces turnover.
+- A culture of excessive overtime is strongly linked to higher turnover. This behavior suggests a high-pressure environment that may compromise mental health and performance. Revising time management practices and promoting balanced productivity are key to building a more sustainable workplace. 
+- Recent promotions (within the last 5 years) correlate with higher retention rates. Recognizing and rewarding internal growth is a powerful motivator. Establishing clear policies for career progression and professional development helps boost engagement and employee loyalty.
 
 ---
 
