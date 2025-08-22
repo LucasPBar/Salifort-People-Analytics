@@ -143,12 +143,14 @@ Investing in a positive work environment encourages collaboration, creativity, a
 
 ## Proposed Solutions
 
-1. **Reduce excessive workload:** Limit projects per employee and monitor burnout signs.  
-2. **Promotions and recognition:** Establish clear policies to reward and retain talent.  
-3. **Work culture reform:** Reevaluate performance metrics and overtime practices.  
-4. **HR strategic engagement:** Facilitate team discussions to identify dissatisfaction drivers.  
-5. **Feature engineering:** Create derived variables like “overworked” to better capture workload stress.  
-6. **Adopt predictive models:** Implement Random Forest to identify turnover risk and guide interventions.  
+1. **Reduce excessive workload:**
+Limiting the number of projects per employee and monitoring signs of burnout are essential steps to protect mental health and maintain productivity. By balancing task distribution, the company fosters a more sustainable environment, lowers burnout risk, and improves talent retention.
+2. **Promotions and recognition:**
+Establishing clear policies for career advancement strengthens the employee-company relationship. Recognizing achievements and offering growth opportunities boosts engagement, enhances motivation, and reduces the likelihood of resignation. 
+3. **Work culture reform:**
+Reevaluating performance metrics and overtime practices is key to building a healthier organizational culture. By prioritizing sustainable outcomes over exhaustive work hours, the company promotes well-being and reinforces a sense of fairness and balance.
+5. **HR strategic engagement:**
+Facilitating team discussions to uncover sources of dissatisfaction enables more empathetic and effective action. HR becomes a transformative force, implementing changes that reflect employees’ real needs and build institutional trust.
 
 ---
 
