@@ -82,8 +82,6 @@ The dataset contains information on 15,000 employees, with features including:
 | salary                 | The employee’s salary (U.S. dollars)                             |
 
 
-**Dataset link:** [Hr Analytics Job Prediction](https://www.kaggle.com/datasets/ajaypalsinghlohana/hr-analytics-job-prediction)
-
 ---
 
 ## Business Problem & Objectives
