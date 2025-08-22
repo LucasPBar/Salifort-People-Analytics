@@ -114,11 +114,20 @@ This project leverages data science and machine learning techniques to predict w
 
 ## Benefits of the Project
 
-- **Cost Reduction:** Decrease expenses related to recruitment and training new employees.  
-- **Improved Retention:** Enhance employee satisfaction and reduce turnover rates.  
-- **Risk Identification:** Detect patterns that signal higher turnover risk.  
-- **Strategic Decision Support:** Provide data-driven insights to guide HR policies.  
-- **Promote Healthy Culture:** Support initiatives that foster a positive and productive work environment.  
+- **Cost Reduction:**
+Lowering expenses related to recruitment and training is a clear opportunity to enhance operational efficiency. By minimizing employee turnover, the company avoids recurring costs associated with hiring and onboarding new staff. These savings can be redirected to innovation initiatives, process improvements, or commercial expansion, strengthening the organization’s strategic position.
+
+- **Improved Retention:**
+Retaining skilled and engaged professionals contributes directly to team stability and performance. Long-term retention supports project continuity, preserves internal knowledge, and reduces the disruptions caused by unexpected departures. Moreover, a strong retention rate enhances the company’s reputation as an attractive workplace for top talent.
+
+- **Risk Identification:**
+The ability to anticipate potential resignations allows the company to take preventive action. By analyzing behavioral patterns and employee sentiment, it becomes possible to implement targeted measures to improve the work environment, adjust leadership practices, or offer development opportunities. This proactive approach helps maintain team productivity and reduces operational surprises.
+
+- **Support for strategic decision-making:**
+Data-driven decisions are more accurate and aligned with business goals. Predictive and exploratory analytics empower the HR department to act as a strategic partner, offering valuable insights on talent allocation, organizational structure, and succession planning. This strengthens the company’s adaptability in dynamic market conditions.
+ 
+- **Promote Healthy Culture:**
+Investing in a positive work environment encourages collaboration, creativity, and a sense of belonging. A well-defined culture boosts employee engagement, reduces absenteeism, and enhances innovation capacity. Organizations that cultivate strong values and trust-based relationships tend to be more resilient and appealing to high-performing professionals. 
 
 ---
 
